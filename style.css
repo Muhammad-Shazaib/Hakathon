@@ -1,10 +1,13 @@
-.navbar {
-  background-color: #eaebed;
-  flex-direction: row-reverse;
- 
+.banner {
+  background-image: url(background.webp);
+  background-size: cover;
+  color: white;
+  background-position-x: center;
+  height: calc(100vh - 130px);
+  padding-left: 10em;
+    
 }
-
-li {
-  display: inline;
-  margin: 20px 20px;
-  }
+ button :hover{
+  background-color: #b0bacd !important;
+  padding: 10px !important;
+ }
