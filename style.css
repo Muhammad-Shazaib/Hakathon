@@ -1,10 +1,10 @@
-.navbar{     
-   display: flex;
-   justify-content: flex-end;
- display: inline;
-   background-color: #333;
-   flex-direction: row;
-
-
-  
+.navbar {
+  background-color: #eaebed;
+  flex-direction: row-reverse;
+ 
 }
+
+li {
+  display: inline;
+  margin: 20px 20px;
+  }
